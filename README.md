@@ -75,7 +75,7 @@ Policy A performs better because:
 
 1. Clone the repository:
 
-git clone [https://github.com/YOUR_USERNAME/production-policy-simulation.git](https://github.com/YOUR_USERNAME/production-policy-simulation.git)
+git clone [https://github.com/Nir-Chauser/production-policy-simulation.git](https://github.com/Nir-Chauser/production-policy-simulation.git)
 
 2. Enter the project folder:
 
